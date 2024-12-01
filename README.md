@@ -36,7 +36,7 @@ I've been learning from past few months. and done with HTML, CSS and begginer in
 
 <a href="http://www.instagram.com/vashisht7685" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/900px-Instagram_logo_2022.svg.png" width="36" height="36" alt="Instagram"/></a>
 
-<a href="www.linkedin.com/in/harshit-vashisht" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="36" height="36" alt="Linkedin"/></a>
+<a href="https://www.linkedin.com/in/harshit-vashisht/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="36" height="36" alt="Linkedin"/></a>
 
 [![](https://visitcount.itsvg.in/api?id=iamHV856156&icon=10&color=6)](https://visitcount.itsvg.in)
 
