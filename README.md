@@ -18,9 +18,9 @@ I've been learning from past few months. and done with HTML, CSS and begginer in
   <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" nmk/>
 </div>
 
-### Tech Skills:
+### Tech Stack:
 ### Low-level Language
-<img src="https://icon.icepanel.io/Technology/svg/C.svg" width="36" height="36" alt="C" /><img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" width="36" height="36" alt="Cpp" />
+<img src="https://icon.icepanel.io/Technology/svg/C.svg" width="36" height="36" alt="C" />
 
 ### Web Technologies
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
@@ -29,7 +29,7 @@ I've been learning from past few months. and done with HTML, CSS and begginer in
 
 ### Graphic & Design
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="36" height="36" alt="Canva"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="36" height="36" alt="Canva"/>
 
 ### Socials
 <a href="https://www.github.com/IamHV856156" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/7e282220b8ec0dd29cf99be1c0f5e82d74a42bc84ed834ee6afd86b4bad3bfee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"></a>
@@ -40,14 +40,7 @@ I've been learning from past few months. and done with HTML, CSS and begginer in
 
 [![](https://visitcount.itsvg.in/api?id=iamHV856156&icon=10&color=6)](https://visitcount.itsvg.in)
 
-
 <!--### Support Me
-
 <ul style="list-style-type: none; margin: 0;">
-
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ IamHV856156"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
 </ul>-->
-
-
-
