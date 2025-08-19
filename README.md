@@ -10,7 +10,7 @@ Currently CSE Student
 I've been learning from past few months. and done with HTML, CSS and begginer in JS  and Want to be an full-stack developer. Having some knowledge of Linux.
 
 * 🌍  I'm based in INDIA
-* ✉️  You can contact me at [iamhv856156@gmail.com](mailto: iamhv856156@gmail.com)
+* ✉️  You can contact me at *[iamhv856156@gmail.com](mailto: iamhv856156@gmail.com)
 * 🧠  I'm learning C language as I'm begginer
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly Spiderman... but don't tell anyone
